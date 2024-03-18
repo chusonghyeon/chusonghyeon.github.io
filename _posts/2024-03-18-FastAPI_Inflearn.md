@@ -10,13 +10,6 @@ toc: true
 
 ## FAST API 시작
 
-- 인프런 강의 참조하여 시작
-
-→ 출처: [파이썬 동시성 프로그래밍: 데이터 수집부터 웹 개발까지(with FastAPI)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/dashboard)
-
-- 유튜브 강의로 참조하여 시작
-- → 출처 : [FastAPI기초](https://www.youtube.com/watch?v=ooHWO2gP7Qo&list=PLr_ki3_GfpZMTSdQehJRrIwuDGOHh5LvB&index=6)
-
 | 동시성 프로그래밍(한순간에) | 병렬성 프로그래밍 |
 | --- | --- |
 | - 클라이언트와 서버간 통신 | - 비디오, 오디오 또는 이미지 처리 |
@@ -28,73 +21,13 @@ toc: true
 
 왼쪽은 일반적인 파이썬  오른쪽은 동시서 프로그래밍으로 사용하여 시간 차이 구분이 가능
 
-# 배울 목차
-
-## 파이썬 코투틴과 비동기 함수
-
-- I/O바운드 & CPU 바운드, 블로킹
-- 동기 VS 비동기
-- 파이썬 코루틴의 이해
-- 파이선 코루틴 활용
-
-## 파이썬 멀티 스레딩과 멀티 프로세싱
-
-- 컴퓨터 구조와 운영체제 기본
-- 동시성 VS 병렬성
-- 파이썬 멀티 스레딩
-- 파이썬 멀티 프로세싱, GIL
-
-## 동시성 프로그래밍으로 데이터 수집
-
-- 서버와 클라이언트, HTTP, API이해
-- 웹 크롤링, 스크래핑과 법적 주의사항
-- 동시성 프로그래밍으로 웹 크롤링, 스크래핑 성능 극대화
-- 포스트맨 셋업, 네이버, 카아오 오픈 API 사용하기
-- 오픈 API를 활용한 이미지 데이터 수집
-- 동시성 프로그래밍으로 이미지 다운로더 개발(feat. aiofiles)
-
-## 빅데이터 관리의 핵심 기술 MongoDB 이해와 구축
-
-- MongoDB의 이해
-- MongoDB Atlas 구축
-- MongoDB 접근 권한 설정 & Compass 셋업
-- MongoDB CRUD
-
-## 실전프로젝트 : 콜렉터스 북북이(FastAPI)
-
-- 프로젝트 소개
-- 비동기 게이트웨이 ASGI, Uvicorn
-- FastAPI Tutorial
-- 프로젝트 셋업
-- FastAPI + MongoDB
-- 책 데이터 수집 클래스 개발
-- 서비스 로직 개발
-- 프로젝트 마무
-
-## AWS 클라우드 컴퓨팅으로 프로젝트 배포하기
-
-- 다른 사용자가 사용가능 할 수 있게 서버로 배포
-
-# 강좌 GitHub구조 및 파이썬 마인드 맵
-
-GitHub : https://github.com/amamov/teaching-async-python
-
- 
-
-마인드 맵 : [https://async-py.netlify.app/](https://async-py.netlify.app/)
-
-파이썬 코루틴 공식문서 : [https://docs.python.org/ko/3/library/asyncio-task.html](https://docs.python.org/ko/3/library/asyncio-task.html)
-
-출처: [**[파이썬 동시성 프로그래밍 : 데이터 수집부터 웹 개발까지 (feat. FastAPI)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/dashboard)**]
-
-# 개발 세팅
+## 개발 세팅
 
 [https://github.com/amamov/teaching-type-python-oop/tree/main/00 첫 시작](https://github.com/amamov/teaching-type-python-oop/tree/main/00%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91)
 
 - python 버전 : 3.10 → 인공지능사관학교 프로젝트를 위해 버전 향상 (기존은 Python 3.7 버전)
 - 미니콘다 사용(기업 프로젝트에서 버전관리를 위해 사용)
 
-  
 
 ### 미니콘다
 
@@ -102,7 +35,7 @@ GitHub : https://github.com/amamov/teaching-async-python
 - 한번에 150개가 넘는 패키지를 설치할 시간이나 디스크 공간이 없을때
 - 파이썬과 conda명령에 빠르게 엑세스하고 나중에 다른 프로그램을 정렬하고 싶을때
 
-## 아나콘다
+### 아나콘다
 
 - 콘다 또는 파이썬 처음 접할때 이용
 - python과 150개가 넘는 과학 패키지가 한 번에 자동으로 설치되는 편리하다
@@ -129,10 +62,6 @@ Linter: 인터프리터 언어이기때문에 미리 점검해주는 것
 - 기본은 flak8 : 체크해주는 것
 
 Python 과 PIP 명령어 패키지 확인 
-
-참조:
-
-[https://github.com/amamov/teaching-type-python-oop/tree/main/00 첫 시작](https://github.com/amamov/teaching-type-python-oop/tree/main/00%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91)
 
 requirements.txt파일 다운로드 하는법
 
@@ -161,7 +90,7 @@ SQLAIchemy - ORM 방식 (관계형 데이터베이스와 SQL를 연결)
 
 Starlette - 
 
-# 클라이언트와 API
+## 클라이언트와 API
 
 ![image-20240318192923032](/images/2024-03-18-FastAPI_Inflearn/image-20240318192923032.png)
 
@@ -173,7 +102,7 @@ HTTP 관련 문서 : [HTTP](https://developer.mozilla.org/ko/docs/Web/HTTP)
 
 API 관련 문서 : [API](https://www.redhat.com/ko/topics/api/what-are-application-programming-interfaces)
 
-# ASGI, UVICORN
+## ASGI, UVICORN
 
 ASGI : 
 
@@ -188,7 +117,7 @@ Uvicorn :
 
 ASGI의 웹 서버(프로세스 관리자, 실행기)
 
-# FastAPI
+## FastAPI
 
 ![image-20240318193035290](/images/2024-03-18-FastAPI_Inflearn/image-20240318193035290.png)
 
@@ -217,3 +146,20 @@ context는 무조건 request로 반환해야 한다.
 ![image-20240318193216009](/images/2024-03-18-FastAPI_Inflearn/image-20240318193216009.png)
 
 serets.json안에 있는 변수를 호출하여 실행한다. 
+
+
+# 출처 목록:
+
+## Reference 
+
+[https://github.com/amamov/teaching-type-python-oop/tree/main/00 첫 시작](https://github.com/amamov/teaching-type-python-oop/tree/main/00%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91)
+
+GitHub : https://github.com/amamov/teaching-async-python
+ 
+마인드 맵 : [https://async-py.netlify.app/](https://async-py.netlify.app/)
+
+파이썬 코루틴 공식문서 : [https://docs.python.org/ko/3/library/asyncio-task.html](https://docs.python.org/ko/3/library/asyncio-task.html)
+
+→ [파이썬 동시성 프로그래밍: 데이터 수집부터 웹 개발까지(with FastAPI)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/dashboard)
+
+- [FastAPI기초](https://www.youtube.com/watch?v=ooHWO2gP7Qo&list=PLr_ki3_GfpZMTSdQehJRrIwuDGOHh5LvB&index=6)
