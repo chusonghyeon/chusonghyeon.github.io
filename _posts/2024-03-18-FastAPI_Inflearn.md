@@ -22,7 +22,7 @@ categories: "FastAPI"
 | - 데이터베이스 쿼리 작업 | - 머신러닝 |
 | - API 사용 | - 딥러닝 |
 
-![image-20240318192715101](././images/2024-03-18-FastAPI_Inflearn/image-20240318192715101.png)
+![image-20240318192715101](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318192715101.png)
 
 왼쪽은 일반적인 파이썬  오른쪽은 동시서 프로그래밍으로 사용하여 시간 차이 구분이 가능
 
@@ -151,7 +151,6 @@ restapi를 json형식으로 보여준다
 주소값에 /redoc를 입력시 읽기 권한으로 보여주기 된다.
 
 → openapi를 보여준다
-
 ![image-20240318192855416](./images/2024-03-18-FastAPI_Inflearn/image-20240318192855416.png)
 
 MariaDB연동
