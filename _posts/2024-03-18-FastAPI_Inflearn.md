@@ -154,12 +154,12 @@ serets.json안에 있는 변수를 호출하여 실행한다.
 
 [https://github.com/amamov/teaching-type-python-oop/tree/main/00 첫 시작](https://github.com/amamov/teaching-type-python-oop/tree/main/00%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91)
 
-GitHub : https://github.com/amamov/teaching-async-python
+[파이썬 동시성 프로그래밍 GitHub](https://github.com/amamov/teaching-async-python)
  
-마인드 맵 : [https://async-py.netlify.app/](https://async-py.netlify.app/)
+[마인드 맵](https://async-py.netlify.app/)
 
-파이썬 코루틴 공식문서 : [https://docs.python.org/ko/3/library/asyncio-task.html](https://docs.python.org/ko/3/library/asyncio-task.html)
+[파이썬 코루틴 공식문서](https://docs.python.org/ko/3/library/asyncio-task.html)
 
-→ [파이썬 동시성 프로그래밍: 데이터 수집부터 웹 개발까지(with FastAPI)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/dashboard)
+[파이썬 동시성 프로그래밍: 데이터 수집부터 웹 개발까지(with FastAPI)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/dashboard)
 
-- [FastAPI기초](https://www.youtube.com/watch?v=ooHWO2gP7Qo&list=PLr_ki3_GfpZMTSdQehJRrIwuDGOHh5LvB&index=6)
+[FastAPI기초](https://www.youtube.com/watch?v=ooHWO2gP7Qo&list=PLr_ki3_GfpZMTSdQehJRrIwuDGOHh5LvB&index=6)
