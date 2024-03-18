@@ -106,9 +106,9 @@ GitHub : https://github.com/amamov/teaching-async-python
 - 시간 및 디스크 공간이 필요
 - 개별적으로 사용하려는 각 패키지를 설치하고 싶지 않을
 
-![image-20240318192805615](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318192805615.png)
+![image-20240318192805615](../images/2024-03-18-FastAPI_Inflearn/image-20240318192805615.png)
 
-![image-20240318192826413](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318192826413.png)
+![image-20240318192826413](../images/2024-03-18-FastAPI_Inflearn/image-20240318192826413.png)
 
 가상환경 conda와 비슷하다
 
@@ -151,7 +151,7 @@ restapi를 json형식으로 보여준다
 
 → openapi를 보여준다
 
-![image-20240318192855416](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318192855416.png)
+![image-20240318192855416](../images/2024-03-18-FastAPI_Inflearn/image-20240318192855416.png)
 
 MariaDB연동
 
@@ -161,11 +161,11 @@ Starlette -
 
 # 클라이언트와 API
 
-![image-20240318192923032](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318192923032.png)
+![image-20240318192923032](../images/2024-03-18-FastAPI_Inflearn/image-20240318192923032.png)
 
 웹브라우저 상세보기
 
-![image-20240318192945621](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318192945621.png)
+![image-20240318192945621](../images/2024-03-18-FastAPI_Inflearn/image-20240318192945621.png)
 
 HTTP 관련 문서 : [HTTP](https://developer.mozilla.org/ko/docs/Web/HTTP)
 
@@ -188,15 +188,15 @@ ASGI의 웹 서버(프로세스 관리자, 실행기)
 
 # FastAPI
 
-![image-20240318193035290](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318193035290.png)
+![image-20240318193035290](../images/2024-03-18-FastAPI_Inflearn/image-20240318193035290.png)
 
 현재 내가 있는 파일 경로 지정하여 templates 쉽게 이용하기
 
-![image-20240318193102173](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318193102173.png)
+![image-20240318193102173](../images/2024-03-18-FastAPI_Inflearn/image-20240318193102173.png)
 
 Request가 없으면
 
-![image-20240318193118994](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318193118994.png)
+![image-20240318193118994](../images/2024-03-18-FastAPI_Inflearn/image-20240318193118994.png)
 
 요청하는 주체에 대한 정보들을 가지고 있는 객체
 
@@ -204,14 +204,14 @@ context는 무조건 request로 반환해야 한다.
 
 실행 시킬때 터미널에서 uvicorn main:app —reload이렇게 했지만 python스크립트 파일로 실행하기
 
-![image-20240318193138971](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318193138971.png)
+![image-20240318193138971](../images/2024-03-18-FastAPI_Inflearn/image-20240318193138971.png)
 
 이젠 터미널에서 python server.py만 실행하면 명령어 대신하여 사용 가능하다
 
-![image-20240318193156474](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318193156474.png)
+![image-20240318193156474](../images/2024-03-18-FastAPI_Inflearn/image-20240318193156474.png)
 
 외부에 노출하지 않을 변수들을 모아둔 것이다. 
 
-![image-20240318193216009](/Users/chusonghyeon/githublog/chusonghyeon.github.io/images/2024-03-18-FastAPI_Inflearn/image-20240318193216009.png)
+![image-20240318193216009](../images/2024-03-18-FastAPI_Inflearn/image-20240318193216009.png)
 
 serets.json안에 있는 변수를 호출하여 실행한다. 
