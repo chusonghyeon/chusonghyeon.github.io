@@ -263,9 +263,13 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: 목차
+      toc_icon: "fa-solid fa-square-caret-down"
 
 date_format: "%Y-%m-%d"
