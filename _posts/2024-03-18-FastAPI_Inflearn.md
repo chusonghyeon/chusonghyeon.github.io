@@ -2,7 +2,7 @@
 layout: single
 title:  "FastAPI 동시성 프로그래밍: 데이터 수집부터 웹 개발까지"
 categories: "FastAPI"
-tag: "Python", "FastAPI"
+tag: [Python", FastAPI]
 ---
 
 # Python를 활용하여 동시성 프로그래밍: 데이터수집부터 웹 개발까지
