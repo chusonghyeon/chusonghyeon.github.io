@@ -4,7 +4,7 @@ title:  "FastAPI 동시성 프로그래밍: 데이터 수집부터 웹 개발까
 categories: "Coding"
 tags: [Python, FastAPI]
 toc: true
-aurhor_profile: false
+author_profile: false
 ---
 
 # Python를 활용하여 동시성 프로그래밍: 데이터수집부터 웹 개발까지
