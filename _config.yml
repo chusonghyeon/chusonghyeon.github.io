@@ -270,6 +270,6 @@ defaults:
       toc: true
       toc_sticky: true
       toc_label: 목차
-      toc_icon: "fa-solid fa-square-caret-down"
+      toc_icon: "fa-solid fa-rectangle-list"
 
 date_format: "%Y-%m-%d"
