@@ -4,6 +4,7 @@ title:  "FastAPI 동시성 프로그래밍: 데이터 수집부터 웹 개발까
 categories: "Coding"
 tags: [Python, FastAPI]
 toc: true
+aurhor_profile: false
 ---
 
 # Python를 활용하여 동시성 프로그래밍: 데이터수집부터 웹 개발까지
@@ -22,8 +23,6 @@ toc: true
 왼쪽은 일반적인 파이썬  오른쪽은 동시서 프로그래밍으로 사용하여 시간 차이 구분이 가능
 
 ## 개발 세팅
-
-[https://github.com/amamov/teaching-type-python-oop/tree/main/00 첫 시작](https://github.com/amamov/teaching-type-python-oop/tree/main/00%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91)
 
 - python 버전 : 3.10 → 인공지능사관학교 프로젝트를 위해 버전 향상 (기존은 Python 3.7 버전)
 - 미니콘다 사용(기업 프로젝트에서 버전관리를 위해 사용)
@@ -147,8 +146,8 @@ context는 무조건 request로 반환해야 한다.
 
 serets.json안에 있는 변수를 호출하여 실행한다. 
 
-
-# 출처 목록:
+# 전반적인 코드
+[Code github](https://github.com/chusonghyeon/FastAPI_Project/tree/master/Fast_API_MogoDB)
 
 ## Reference 
 
