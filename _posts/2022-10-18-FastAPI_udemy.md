@@ -4,9 +4,6 @@ title:  "Udemy Machine Learing 강의"
 categories: "AI"
 tags: [Python, FastAPI, AI, Machine Learing]
 author_profile: false
-toc: true
-toc_sticky: true
-toc_label: 목차
 ---
 
 
