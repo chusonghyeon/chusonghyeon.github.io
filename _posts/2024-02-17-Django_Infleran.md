@@ -106,6 +106,7 @@ def helloworld(request):
 ```
 
 4. 메인 프로젝트에 urls 수정하여 App urls 등록
+
 ```
 from django.contrib import admin
 from django.urls import path, include
@@ -118,6 +119,7 @@ urlpatterns = [
 
 5. App폴더에도 url를 만든다
    - urls 생성하여 메인에서 바로 호출 할 수 있게끔 한다.
+
 ```
 from django.urls import path
 from {app폴더이름}.views import helloworld
