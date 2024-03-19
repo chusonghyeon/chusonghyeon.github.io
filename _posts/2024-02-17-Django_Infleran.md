@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "Django Project"
+title:  "Django Project -(1)"
 categories: "Coding"
 tags: [Python, Djnago]
 author_profile: false
 ---
 
-# Django Project
+# Django Project - (1)
 
 - Djnago 프로젝트 (인프런 강의 도움)
 - 프로젝트 설정과 앱 만들기
