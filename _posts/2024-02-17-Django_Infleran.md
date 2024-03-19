@@ -35,7 +35,7 @@ author_profile: false
 1. Django admin 설정
    - `django-admin startproject {설정할 프로젝트 이름} .`
 
-1-1. Django 프로젝트 구종
+   - Django 프로젝트 구조
 ```
 {설정한 프로젝트 폴더}
 ├───manage.py
@@ -50,7 +50,7 @@ author_profile: false
 2. Settings 변경
    - `cd {설정란 프로젝트 이름}`
    - `vi settings`
-   
+
 ```
 LANGUAGE_CODE = 'ko-kr'
 TIME_ZONE = 'Asia/Seoul'
@@ -60,6 +60,7 @@ TIME_ZONE = 'Asia/Seoul'
    - `cd ..` -> 상위 폴더로 이동
    - `python manage.py runserver` -> 8000포트로 해서 사이트가 열린다.
    -  접속: (http://localhost:8000/)
+
 
 4. 장고 로컬 화면
 ![image-20240319144413659](/images/2024-02-17-Django_Infleran/image-20240319144413659.png)
