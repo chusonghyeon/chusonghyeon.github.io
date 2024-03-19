@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "FastAPI Udemy"
-categories: "Coding"
-tags: [Python, FastAPI]
+title:  "Udemy Machine Learing 강의"
+categories: "AI"
+tags: [Python, FastAPI, AI, Machine Learing]
 author_profile: false
 ---
 
@@ -16,15 +16,15 @@ author_profile: false
 - AWS 서버 배포
 - 영어자막으로 이해하면서 가기…(ㅜ)  
 
-![image-20240319122858156](../images/2022-10-18-FastAPI_udemy/image-20240319122858156.png)
+![image-20240319122858156](/images/2022-10-18-FastAPI_udemy/image-20240319122858156.png)
 
-![image-20240319122926517](../images/2022-10-18-FastAPI_udemy/image-20240319122926517.png)    
+![image-20240319122926517](/images/2022-10-18-FastAPI_udemy/image-20240319122926517.png)    
 
 - Python에서 모델을 배포하는 방법
 - 모델에 적응할 준비가 된 코드
   
 
-![image-20240319123004324](../images/2022-10-18-FastAPI_udemy/image-20240319123004324.png)
+![image-20240319123004324](/images/2022-10-18-FastAPI_udemy/image-20240319123004324.png)
     
 - 모델을 배포하고 모범사례를 배우려는 데이터 과학자
 - 기계학습을 시작하려는 소프트웨어 개발자
@@ -32,7 +32,7 @@ author_profile: false
 
 ## 소개
 
-![image-20240319123027243](../images/2022-10-18-FastAPI_udemy/image-20240319123027243.png)
+![image-20240319123027243](/images/2022-10-18-FastAPI_udemy/image-20240319123027243.png)
     
 ### 과정 자료
 - 코드
@@ -41,13 +41,13 @@ author_profile: false
 - 기계학습에 대해 자세히 알아볼 수 있는 추가 리소스
   
 
-![image-20240319123047731](../images/2022-10-18-FastAPI_udemy/image-20240319123047731.png)
+![image-20240319123047731](/images/2022-10-18-FastAPI_udemy/image-20240319123047731.png)
     
 - 모델 배포 및 중요한 이유
 - 연구 및 가상환경
   
 
-![image-20240319123103923](../images/2022-10-18-FastAPI_udemy/image-20240319123103923.png)
+![image-20240319123103923](/images/2022-10-18-FastAPI_udemy/image-20240319123103923.png)
     
 - 기계학습시스템 아키텍처    
 - 아키텍처 구성요소
@@ -57,35 +57,35 @@ author_profile: false
 - 과제 및 이를 완화하는 방법
   
 
-![image-20240319123146525](../images/2022-10-18-FastAPI_udemy/image-20240319123146525.png)
+![image-20240319123146525](/images/2022-10-18-FastAPI_udemy/image-20240319123146525.png)
     
-![image-20240319123206539](../images/2022-10-18-FastAPI_udemy/image-20240319123206539.png)
+![image-20240319123206539](/images/2022-10-18-FastAPI_udemy/image-20240319123206539.png)
     
-![image-20240319123227610](../images/2022-10-18-FastAPI_udemy/image-20240319123227610.png)
+![image-20240319123227610](/images/2022-10-18-FastAPI_udemy/image-20240319123227610.png)
     
-![image-20240319123250584](../images/2022-10-18-FastAPI_udemy/image-20240319123250584.png)
+![image-20240319123250584](/images/2022-10-18-FastAPI_udemy/image-20240319123250584.png)
     
 
-- Course Requirements(과정 요구사항)
+### Course Requirements(과정 요구사항)
   
 
-![image-20240319123349136](../images/2022-10-18-FastAPI_udemy/image-20240319123349136.png)
+![image-20240319123349136](/images/2022-10-18-FastAPI_udemy/image-20240319123349136.png)
     
-![image-20240319123409786](../images/2022-10-18-FastAPI_udemy/image-20240319123409786.png)
+![image-20240319123409786](/images/2022-10-18-FastAPI_udemy/image-20240319123409786.png)
     
-![image-20240319123445798](../images/2022-10-18-FastAPI_udemy/image-20240319123445798.png)
+![image-20240319123445798](/images/2022-10-18-FastAPI_udemy/image-20240319123445798.png)
     
-![image-20240319123530225](../images/2022-10-18-FastAPI_udemy/image-20240319123530225.png)
+![image-20240319123530225](/images/2022-10-18-FastAPI_udemy/image-20240319123530225.png)
     
-![image-20240319123548482](../images/2022-10-18-FastAPI_udemy/image-20240319123548482.png)
+![image-20240319123548482](/images/2022-10-18-FastAPI_udemy/image-20240319123548482.png)
     
 
-- Course Materials(과정 자료)
+### Course Materials(과정 자료)
   
 
-![image-20240319123623209](../images/2022-10-18-FastAPI_udemy/image-20240319123623209.png)
+![image-20240319123623209](/images/2022-10-18-FastAPI_udemy/image-20240319123623209.png)
     
-![image-20240319123644389](../images/2022-10-18-FastAPI_udemy/image-20240319123644389.png)
+![image-20240319123644389](/images/2022-10-18-FastAPI_udemy/image-20240319123644389.png)
     
 
 - 머신러닝 자료[https://github.com/trainindata/deploying-machine-learning-models]
@@ -94,7 +94,7 @@ author_profile: false
 - 추가 관련 리소스
   
 
-![image-20240319123711037](../images/2022-10-18-FastAPI_udemy/image-20240319123711037.png)
+![image-20240319123711037](/images/2022-10-18-FastAPI_udemy/image-20240319123711037.png)
     
 - 필요한 기술에 대한 추가 리소스
 1) 관련 기계 학습 및 데이터 과학 기술에 대해 어떻게 더 배울 수 있습니까?
@@ -119,35 +119,35 @@ author_profile: false
 - How to approach rhe course(과정에 접근하는 방법)
   
 
-![image-20240319123752322](../images/2022-10-18-FastAPI_udemy/image-20240319123752322.png)
+![image-20240319123752322](/images/2022-10-18-FastAPI_udemy/image-20240319123752322.png)
     
-![image-20240319123813682](../images/2022-10-18-FastAPI_udemy/image-20240319123813682.png)
+![image-20240319123813682](/images/2022-10-18-FastAPI_udemy/image-20240319123813682.png)
     
-![image-20240319123832636](../images/2022-10-18-FastAPI_udemy/image-20240319123832636.png)
+![image-20240319123832636](/images/2022-10-18-FastAPI_udemy/image-20240319123832636.png)
     
 
-- 기계학습 모델의 배포
+# 기계학습 모델의 배포
   
 
-![image-20240319124042271](../images/2022-10-18-FastAPI_udemy/image-20240319124042271.png)
+![image-20240319124042271](/images/2022-10-18-FastAPI_udemy/image-20240319124042271.png)
     
-![image-20240319124103948](../images/2022-10-18-FastAPI_udemy/image-20240319124103948.png)
+![image-20240319124103948](/images/2022-10-18-FastAPI_udemy/image-20240319124103948.png)
     
-![image-20240319124129832](../images/2022-10-18-FastAPI_udemy/image-20240319124129832.png)
+![image-20240319124129832](/images/2022-10-18-FastAPI_udemy/image-20240319124129832.png)
     
-![image-20240319124147905](../images/2022-10-18-FastAPI_udemy/image-20240319124147905.png)
+![image-20240319124147905](/images/2022-10-18-FastAPI_udemy/image-20240319124147905.png)
     
 
-- 기계학습 파이프라인의 배포
+# 기계학습 파이프라인의 배포
   
 
-![image-20240319124205446](../images/2022-10-18-FastAPI_udemy/image-20240319124205446.png)
+![image-20240319124205446](/images/2022-10-18-FastAPI_udemy/image-20240319124205446.png)
     
 - 기계 학습 모델을 이미징하는 간단한 방법으로 조직은 클라우드의 데이터베이스에 저장하거나 타사의 API에서 검색할 수 있는 일부 데이터를 보유합니다.
 - 그런 다음 이러한 데이터를 공급하여 비즈니스에 유용한 몇 가지 예측을 제공할 수 있는 모델을 구축합니다.
   
 
-![image-20240319124227300](../images/2022-10-18-FastAPI_udemy/image-20240319124227300.png)
+![image-20240319124227300](/images/2022-10-18-FastAPI_udemy/image-20240319124227300.png)
     
 - 그러나 데이터는 기계 학습 모델을 교육하는 데 사용할 준비가 거의 되어 있지 않습니다.
 - 실제로 데이터는 형식과 품질 측면에서 다양한 특성을 나타내므로 적합하지 않습니다.
@@ -167,25 +167,24 @@ author_profile: false
 - 기계 학습 파이프라인에는 원시 데이터에서 예측을 얻을 수 있도록 기계 학습 모델을 교육하는 데 적합한 데이터 형식으로 이동할 수 있는 다양한 단계가 포함되어 있습니다.
   
 
-![image-20240319124249445](../images/2022-10-18-FastAPI_udemy/image-20240319124249445.png)
+![image-20240319124249445](/images/2022-10-18-FastAPI_udemy/image-20240319124249445.png)
     
 - 기계 학습 모델을 배포할 때 모델 자체를 배포할 뿐만 아니라 전체 파이프라인을 배포해야 합니다.
 - 연구와 생산 환경 모두에서 원시 데이터를 받을 가능성이 높기 때문입니다. 따라서 우리는 모델을 훈련하거나 모델이 훈련되면 접두어를 얻을 수 있는 성숙한 데이터를 생성할 수 있는 파이프라인의 단계가 필요합니다.
 - 머신 러닝 파이프라인의 여러 단계에 대한 자세한 내용은 섹션 4에서 나중에 설명하겠습니다.
 - 나머지 부분에서는 재현 가능한 기계 학습 파이프라인을 구축하는 개념에 중점을 둘 것입니다.
 
-- 연구 및 생산 환경
+# 연구 및 생산 환경
   
 
-![image-20240319124338322](../images/2022-10-18-FastAPI_udemy/image-20240319124338322.png)
+![image-20240319124338322](/images/2022-10-18-FastAPI_udemy/image-20240319124338322.png)
     
-![image-20240319124400467](../images/2022-10-18-FastAPI_udemy/image-20240319124400467.png)
+![image-20240319124400467](/images/2022-10-18-FastAPI_udemy/image-20240319124400467.png)
     
 
-- 재현 가능한 기계학습 파이프라인 구축
+# 재현 가능한 기계학습 파이프라인 구축
   
-
-![image-20240319124421280](../images/2022-10-18-FastAPI_udemy/image-20240319124421280.png)
+![image-20240319124421280](/images/2022-10-18-FastAPI_udemy/image-20240319124421280.png)
     
 - 기계 학습 모델의 배포는 우리 모델을 프로덕션에서 사용할 수 있도록 만드는 프로세스입니다.
 - 다른 소프트웨어 시스템에 예측을 제공할 수 있는 환경을 개발할 것은 소위 연구 환경에서 수행하는 기계 학습 모델입니다.
@@ -194,7 +193,7 @@ author_profile: false
 - 연구 환경에서 모델의 성능에 만족하면 생산 환경으로 모델을 마이그레이션할 준비가 된 것입니다. 여기서 실 데이터에서 입력을 받고 결정을 내리는 데 사용할 수 있는 예측 결과를 출력할 수 있습니다.
   
 
-![image-20240319124438939](../images/2022-10-18-FastAPI_udemy/image-20240319124438939.png)
+![image-20240319124438939](/images/2022-10-18-FastAPI_udemy/image-20240319124438939.png)
     
 - 실제로 기계 학습 파이프라인의 배포를 의미할 때 기계 학습 모델의 분산에 대해 자주 이야기합니다.
 - 데이터를 받은 순간부터 예측을 하는 순간까지 일어나야 하는 일련의 단계입니다.
@@ -205,7 +204,7 @@ author_profile: false
 - 연구 환경의 파이프라인과 프로덕션 환경의 파이프라인이 모두 동일한 원시 데이터 입력을 수신합니다. 두 파이프라인이 동일한 보호를 반환해야 합니다. 동일한 데이터 Khamsin 동일한 출력이 두 파이프라인에서 나와야 합니다.
   
 
-![image-20240319124456096](../images/2022-10-18-FastAPI_udemy/image-20240319124456096.png)
+![image-20240319124456096](/images/2022-10-18-FastAPI_udemy/image-20240319124456096.png)
     
 - 우리가 구축하고 성능을 최적화한 프로젝트의 연구 단계가 비즈니스 가치를 극대화한다고 생각하는 이유는 무엇입니까?
 - 머신 러닝 파이프라인을 위한 머신 러닝 모델을 개발할 때 정확성, 정밀도와 같은 고전적인 메트릭을 활용하여 통계적 관점에서 모델 성능을 테스트한다고 말해야 합니다.
