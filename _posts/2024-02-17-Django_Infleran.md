@@ -136,5 +136,7 @@ urlpatterns = [
 
 ## Reference
 [개인 Code 기록 github](https://github.com/chusonghyeon/Django_Project)
+
 [인프런 강의](https://www.inflearn.com/course/%EC%9E%A5%EA%B3%A0-%ED%95%80%ED%84%B0%EB%A0%88%EC%8A%A4%ED%8A%B8/dashboard)
+
 [Django공식페이지](https://www.djangoproject.com/)
