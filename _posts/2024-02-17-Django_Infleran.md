@@ -6,7 +6,7 @@ tags: [Python, Djnago]
 author_profile: false
 ---
 
-# Django Project - (1)
+# Django Project
 
 - Djnago 프로젝트 (인프런 강의 도움)
 - 프로젝트 설정과 앱 만들기

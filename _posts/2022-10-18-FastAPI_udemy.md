@@ -6,9 +6,8 @@ tags: [Python, FastAPI, AI, Machine Learing]
 author_profile: false
 ---
 
-# FastAPI Udemy강의(Deployment of Machine Learing Models)
 
-## 시작하기 전
+# 시작하기 전
 
 - AI 모델링과 FastAPI로 API호출하고 React JS로 연동 및 AWS에 배포작업
 - 광주인공지능사관학교에 프로젝트에 필요한 능력

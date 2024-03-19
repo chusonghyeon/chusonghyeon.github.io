@@ -6,9 +6,8 @@ tags: [Python, FastAPI]
 author_profile: false
 ---
 
-# Python를 활용하여 동시성 프로그래밍: 데이터수집부터 웹 개발까지
 
-## FAST API 시작
+# FAST API 시작
 
 | 동시성 프로그래밍(한순간에) | 병렬성 프로그래밍 |
 | --- | --- |

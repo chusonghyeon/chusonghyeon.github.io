@@ -6,7 +6,7 @@ tags: [Python, Djnago]
 author_profile: false
 ---
 
-# Django Project - (2)
+# Django Project
 
 - Djnago 프로젝트 (인프런 강의 도움)
 - 환경변수 설정
