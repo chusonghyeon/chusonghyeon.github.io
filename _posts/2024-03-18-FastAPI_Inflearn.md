@@ -145,10 +145,10 @@ context는 무조건 request로 반환해야 한다.
 
 serets.json안에 있는 변수를 호출하여 실행한다. 
 
-# 전반적인 코드
-[Code github](https://github.com/chusonghyeon/FastAPI_Project/tree/master/Fast_API_MogoDB)
 
-## Reference 
+# Reference 
+
+[개인 기록 Code github](https://github.com/chusonghyeon/FastAPI_Project/tree/master/Fast_API_MogoDB)
 
 [https://github.com/amamov/teaching-type-python-oop/tree/main/00 첫 시작](https://github.com/amamov/teaching-type-python-oop/tree/main/00%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91)
 
