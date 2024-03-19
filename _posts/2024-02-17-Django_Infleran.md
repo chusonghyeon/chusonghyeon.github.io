@@ -13,8 +13,9 @@ author_profile: false
 
 ## 개발 과정
 
-- Setting
+### Settings
 - IDE: VScode
+- OS: Mac OS M1
 - Python: 3.12.2 -> 버전은 개인 취향
 - Django: 5.0.3 -> 버전은 개인 취향
 
@@ -30,7 +31,7 @@ author_profile: false
 4. Django 설치
    - `python install django`
 
-## 설정 변경
+### DJango 설정 
 
 1. Django admin 설정
    - `django-admin startproject {설정할 프로젝트 이름} .`
