@@ -50,9 +50,9 @@ author_profile: false
 2. Settings 변경
    - `cd {설정란 프로젝트 이름}`
    - `vi settings`
+   
 ```
 LANGUAGE_CODE = 'ko-kr'
-
 TIME_ZONE = 'Asia/Seoul'
 ```
 
