@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "Udemy FastAPI 강의"
+title:  "Udemy FastAPI 강의 - (12)"
 categories: "Coding"
 tags: [Python, FastAPI]
 author_profile: false
 ---
 
-# FastAPI - (11)
+# FastAPI - (12)
    - FastAPI는 가장 빠르게 성장하는 API프레임워크
    - swagger UI
    - Udemy 강의 정리
