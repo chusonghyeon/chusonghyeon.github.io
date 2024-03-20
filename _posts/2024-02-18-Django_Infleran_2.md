@@ -7,7 +7,7 @@ author_profile: false
 
 ---
 
-# Django Project
+# Django Project - (2)
 
 - Djnago 프로젝트 (인프런 강의 도움)
 - 환경변수 설정

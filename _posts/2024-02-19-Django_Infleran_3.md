@@ -7,7 +7,7 @@ author_profile: false
 
 ---
 
-# Django Project
+# Django Project - (3)
 
 - Djnago 프로젝트 (인프런 강의 도움)
 - Tetmplate 구성
@@ -100,6 +100,32 @@ TEMPLATES = [
    4. 결과 
 
    ![image-20240320152350123](/images/2024-02-19-Django_Infleran_3/image-20240320152350123.png)
+
+   5. 추가적으로 꾸며보기
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+   <div style="height: 10rem; background-color: #38df81; border-radius: 1rem; margin: 2rem;">
+
+   </div>
+   <div style="height: 20rem; background-color: #38df81; border-radius: 1rem; margin: 2rem;">
+
+   </div>
+   <div style="height: 10rem; background-color: #38df81; border-radius: 1rem; margin: 2rem;">
+
+   </div>
+
+</body>
+</html>
+```
 
 
 
