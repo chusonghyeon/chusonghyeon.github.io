@@ -24,27 +24,9 @@ author_profile: false
 
    1. Template 폴더 밑에 3개의 .html 파일(head, header, footer)과 base.html를 수정한다.
 
+   - base.html 수정
 
-```html
-<!-- base.html 수정 -->
-<!DOCTYPE html>
-<html lang="ko">
-
-<!-- {% include 'head.html' %} -->
-
-<body>
-
-    <!-- {% include 'header.html' %}
-
-    {% block content %}
-
-    {% endblock %}
-   
-    {% include 'footer.html' %} -->
-
-</body>
-</html>
-```
+​	![image-20240320200200358](/images/2024-02-20-Django_Infleran_4/image-20240320200200358.png)
 
 ```html
 <!-- head.html -->
@@ -76,23 +58,14 @@ author_profile: false
 
 # App 폴더 View 수정
    - 호출하는 부분이 기존에 설정한 base.html이 아닌 프로젝트 폴더 안의 html호출해서 보여준다.
+
    - Extends를 활용하여 메인 html를 불러오고 block로 구역을 지정하여 html를 완성 시킨다.
+
    - `mkdir -p {App폴더}/templates/{아무 이름 지정}` -> 이름 지정할때 상위 폴더에 이름과 동일하게 하는것이 가독성이 좋다.
 
-```html
-<!-- 새로운 html 생성-->
-<!-- {% extends 'base.html' %} -->
+     - 새로운 html 생성
 
-<!-- {% block content %} -->
-
-    <div style="height: 20rem; background-color: #38df81; border-radius: 1rem; margin: 2rem;">
-        <h1>
-            Testing
-        </h1>
-    </div>
-
-<!-- {% endblock %}  -->
-```
+     ![image-20240320200247298](/images/2024-02-20-Django_Infleran_4/image-20240320200247298.png)
 
    - View.py 수정
 
