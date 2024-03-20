@@ -80,7 +80,12 @@ def helloworld(request):
     return render(request, '{html이 들어가 있는 폴더 이름}/{새로 만든 html 이름}.html')
 ```
 
+- 결과
+
+![image-20240320200849169](/images/2024-02-20-Django_Infleran_4/image-20240320200849169.png)
+
 # Issue
+
 - 현재 버전에서 block와 extend의 버전 호환성으로 build 할때 에러가 발생
 ```
   Liquid Exception: Liquid syntax error (line 30): Unknown tag 'block' in /github/workspace/_posts/2024-02-20-Django_Infleran_4.md
