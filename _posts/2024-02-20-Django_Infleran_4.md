@@ -36,9 +36,9 @@ author_profile: false
 
     {% include 'header.html' %}
 
-    {% block content %}
+    <!-- {% block content %} -->
 
-    {% endblock %}
+    <!-- {% endblock %} -->
    
     {% include 'footer.html' %}
 
@@ -83,7 +83,7 @@ author_profile: false
 <!-- 새로운 html 생성-->
 {% extends 'base.html' %}
 
-{% block content %}
+<!-- {% block content %} -->
 
     <div style="height: 20rem; background-color: #38df81; border-radius: 1rem; margin: 2rem;">
         <h1>
@@ -91,7 +91,7 @@ author_profile: false
         </h1>
     </div>
 
-{% endblock %} 
+<!-- {% endblock %}  -->
 ```
 
    - View.py 수정
