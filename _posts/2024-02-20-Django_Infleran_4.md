@@ -25,12 +25,12 @@ author_profile: false
    1. Template 폴더 밑에 3개의 .html 파일(head, header, footer)과 base.html를 수정한다.
 
 
-```
-<-- base.html 수정 -->
+```html
+<!-- base.html 수정 -->
 <!DOCTYPE html>
 <html lang="ko">
 
-<-- {% include 'head.html' %} -->
+{% include 'head.html' %}
 
 <body>
 
@@ -46,8 +46,8 @@ author_profile: false
 </html>
 ```
 
-```
-<-- head.html -->
+```html
+<!-- head.html -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -55,15 +55,15 @@ author_profile: false
 </head>
 ```
 
-```
-<-- header.html -->
+```html
+<!-- header.html -->
 <div style="height: 10rem; background-color: #38df81; border-radius: 1rem; margin: 2rem;">
 
 </div>
 ```
 
-```
-<--  footer.html -->
+```html
+<!--  footer.html -->
 <div style="height: 10rem; background-color: #38df81; border-radius: 1rem; margin: 2rem;">
         
 </div>
@@ -79,11 +79,11 @@ author_profile: false
    - Extends를 활용하여 메인 html를 불러오고 block로 구역을 지정하여 html를 완성 시킨다.
    - `mkdir -p {App폴더}/templates/{아무 이름 지정}` -> 이름 지정할때 상위 폴더에 이름과 동일하게 하는것이 가독성이 좋다.
 
-```
-<-- 새로운 html 생성-->
-<-- {% extends 'base.html' %} -->
+```html
+<!-- 새로운 html 생성-->
+{% extends 'base.html' %}
 
-<-- {% block content %} -->
+{% block content %}
 
     <div style="height: 20rem; background-color: #38df81; border-radius: 1rem; margin: 2rem;">
         <h1>
@@ -91,12 +91,12 @@ author_profile: false
         </h1>
     </div>
 
-<-- {% endblock %} --> 
+{% endblock %} 
 ```
 
    - View.py 수정
 
-```
+```python
 from django.shortcuts import render
 from django.http import HttpResponse
 
