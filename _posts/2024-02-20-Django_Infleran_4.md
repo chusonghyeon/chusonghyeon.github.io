@@ -80,7 +80,13 @@ def helloworld(request):
     return render(request, '{html이 들어가 있는 폴더 이름}/{새로 만든 html 이름}.html')
 ```
 
-
+# Issue
+- 현재 버전에서 block와 extend의 버전 호환성으로 build 할때 에러가 발생
+```
+  Liquid Exception: Liquid syntax error (line 30): Unknown tag 'block' in /github/workspace/_posts/2024-02-20-Django_Infleran_4.md
+/usr/local/bundle/gems/liquid-4.0.4/lib/liquid/document.rb:23:in `unknown_tag': Liquid syntax error (line 30): Unknown tag 'block' (Liquid::SyntaxError)
+```
+- 대체: 캡쳐로 변경
 
 ## Reference
 
