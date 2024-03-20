@@ -31,7 +31,6 @@ author_profile: false
 # Template
    - MTV 중 Template 구조 작성
    - 템플릿 파일은 주로 HTML, XML, JSON
-   - 
    - [장고 공식 템플릿](https://docs.djangoproject.com/en/5.0/topics/templates/) 
 
 
