@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Django Project - (4)"
-categories: "Coding"
+categories: "Django"
 tags: [Python, Djnago]
 author_profile: false
 

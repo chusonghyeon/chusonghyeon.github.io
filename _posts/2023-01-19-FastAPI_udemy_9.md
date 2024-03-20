@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Udemy FastAPI 강의 - (9)"
-categories: "Coding"
+categories: "FastAPI"
 tags: [Python, FastAPI]
 author_profile: false
 ---
