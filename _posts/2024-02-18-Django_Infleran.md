@@ -15,8 +15,8 @@ author_profile: false
 ## 개발 Settings
 - IDE: VScode
 - OS: Mac OS M1
-- Python: 3.12.2 -> 버전은 개인 취향
-- Django: 5.0.3 -> 버전은 개인 취향
+- Python: 3.12.2
+- Django: 5.0.3
 
 # 환경변수 설정
    - 환경변수 중요한 정보나 호출해야 하는 변수를 따로 지정한다.
