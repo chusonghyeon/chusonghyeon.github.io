@@ -30,17 +30,17 @@ author_profile: false
 <!DOCTYPE html>
 <html lang="ko">
 
-{% include 'head.html' %}
+<!-- {% include 'head.html' %} -->
 
 <body>
 
-    {% include 'header.html' %}
+    <!-- {% include 'header.html' %}
 
-    <!-- {% block content %} -->
+    {% block content %}
 
-    <!-- {% endblock %} -->
+    {% endblock %}
    
-    {% include 'footer.html' %}
+    {% include 'footer.html' %} -->
 
 </body>
 </html>
@@ -81,7 +81,7 @@ author_profile: false
 
 ```html
 <!-- 새로운 html 생성-->
-{% extends 'base.html' %}
+<!-- {% extends 'base.html' %} -->
 
 <!-- {% block content %} -->
 
